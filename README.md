@@ -15,13 +15,17 @@ It lets you set an alarm time using a graphical clock and plays a sound when the
 ---
 ## 🧪 Installation (For Users who dare)
 
+1. Download the Zip file form the "Releases" section.
 
+2. Extract the `.zip` file
+
+3. Run the `Alarming Clock.exe` file.
+
+4. Suffer! (I meant 'Enjoy')
 
 ---
 
-## 🚀 Getting Started
-
-### 🔧 Requirements (For developers)
+## 🔧 Requirements (For developers)
 
 Make sure you have Python 3 installed and these libraries:
 
@@ -49,7 +53,7 @@ cd AlarmingClock
 python main.py
 ```
 Or use vscode/other IDEs to run the file (just run it somehow, okay?).
-All codes are inside main.py
+All codes are inside `main.py`
 
 ---
 
