@@ -1,4 +1,4 @@
-# Alarming Clock
+# ⏰ Alarming Clock
 
 A simple Python alarm clock application built with **CustomTkinter**.  
 It lets you set an alarm time using a graphical clock and plays a sound when the alarm triggers.
@@ -85,7 +85,8 @@ If you'd like to contribute:
 ## 📝 License
 
 This project is licensed under the MIT License — see the **LICENSE** file for details.
-(IDK what this means, ChatGPT wrote it.)
+
+(IDK what this means, ChatGPT wrote it. Also, there is no License file.)
 
 ---
 
