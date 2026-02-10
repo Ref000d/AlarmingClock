@@ -67,7 +67,7 @@ All codes are inside `main.py`
 
 ## 📦 How It Works
 
-(Frankly, I don't know. Only known by Almighty himself.)
+(Frankly, I don't know. Only known by Almighty Himself.)
 
 - `main.py`: Main application logic  (its messy, pls don't look)
 - `assets/`: Images and sound assets (mostly collected from internet, got few of them from my friends)
@@ -104,5 +104,6 @@ This project is licensed under the MIT License — see the **LICENSE** file for 
 ## Who?
 
 Created by **Rafid Muammar** — for BUET CSE Fest Worst UI Competition.
+
 
 
