@@ -4,7 +4,6 @@ A simple Python alarm clock application built with **CustomTkinter**.
 It lets you set an alarm time using a graphical clock and plays a sound when the alarm triggers.
 (Should have chosen a better name.)
 
----
 
 ## 🛠️ Features
 
@@ -12,7 +11,6 @@ It lets you set an alarm time using a graphical clock and plays a sound when the
 - Probably makes you smash your computer
 - Potentially triggers a mild trauma (I can't sleep anymore)
 
----
 ## 🧪 Installation (For Users who dare)
 
 1. Download the Zip file form the "Releases" section.
@@ -23,7 +21,6 @@ It lets you set an alarm time using a graphical clock and plays a sound when the
 
 4. Suffer! (I meant 'Enjoy')
 
----
 
 ## 🧩 Usage
 
@@ -31,7 +28,6 @@ Run the "AlarmingClock.exe"
 
 Set the time using the clock interface and click **Set Alarm** to enable the alarm.
 
----
 
 ## 🔧 Requirements (For developers)
 
@@ -63,7 +59,6 @@ python main.py
 Or use vscode/other IDEs to run the file (just run it somehow, okay?).
 All codes are inside `main.py`
 
----
 
 ## 📦 How It Works
 
@@ -73,14 +68,12 @@ All codes are inside `main.py`
 - `assets/`: Images and sound assets (mostly collected from internet, got few of them from my friends)
 - Made using "Tkinter", "CustomTkinter", "PyGame", "PIL" and other libraries
 
----
 
 ## 🫶 Credits
 
 - The icon is created by <a href="https://www.flaticon.com/free-icons/alarm-clock" title="alarm clock icons">Freepik - Flaticon</a>.
 - Also, credit goes to my friend Tanzim, who sent some amazing (rather horrifying) alarm sounds used inside.
 
----
 
 ## 🤝 Contributing
 
@@ -91,7 +84,6 @@ If you'd like to contribute:
 3. Make your changes  
 4. Submit a pull request
 
----
 
 ## 📝 License
 
@@ -99,11 +91,11 @@ This project is licensed under the MIT License — see the **LICENSE** file for 
 
 (IDK what this means, ChatGPT wrote it. Also, there is no License file.)
 
----
 
 ## Who?
 
 Created by **Rafid Muammar** — for BUET CSE Fest Worst UI Competition.
+
 
 
 
